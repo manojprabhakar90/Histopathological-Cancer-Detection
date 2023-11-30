@@ -11,3 +11,5 @@ Metrics: ROC - AUC
 Training Data: 220,025 images
 
 Test Data : 57,458 images
+
+The leaderboard score is 0.61
